@@ -1,15 +1,15 @@
 .DS_Store
-node_modules
-/dist
-/coverage
+#node_modules
+#/dist
+#/coverage
 
-/tests/e2e/reports/
-selenium-debug.log
-chromedriver.log
+#/tests/e2e/reports/
+#selenium-debug.log
+#chromedriver.log
 
 # local env files
-.env.local
-.env.*.local
+#env.local
+#.env.*.local
 
 # Log files
 npm-debug.log*
