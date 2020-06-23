@@ -22,7 +22,11 @@
 #/laravel/yarn-error.log
 
 
+<<<<<<< HEAD
 #/coreui/.DS_Store
+=======
+##/coreui/.DS_Store
+>>>>>>> be2db42... first fix
 #/coreui/node_modules
 #/coreui/dist
 #/coreui/coverage
@@ -35,9 +39,9 @@
 #/coreui/.env.*.local
 
 # Log files
-/coreui/npm-debug.log*
-/coreui/yarn-debug.log*
-/coreui/yarn-error.log*
+#/coreui/npm-debug.log*
+#/coreui/yarn-debug.log*
+#/coreui/yarn-error.log*
 
 # Editor directories and files
 #/coreui/.idea
