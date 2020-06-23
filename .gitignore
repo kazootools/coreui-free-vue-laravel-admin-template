@@ -22,11 +22,8 @@
 #/laravel/yarn-error.log
 
 
-<<<<<<< HEAD
+
 #/coreui/.DS_Store
-=======
-##/coreui/.DS_Store
->>>>>>> be2db42... first fix
 #/coreui/node_modules
 #/coreui/dist
 #/coreui/coverage
